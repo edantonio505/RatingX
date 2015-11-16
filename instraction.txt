@@ -1,0 +1,8 @@
+1)	create database mane: edgar505
+
+2)	Import all sql file. Witch is under data sql folder
+
+3)	Database connection goes to 
+	db.php and
+	db_conx.php
+	Under admin folder.
